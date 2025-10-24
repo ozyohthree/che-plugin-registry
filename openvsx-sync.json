@@ -254,5 +254,13 @@
   {
     "id": "Zowe.secrets-for-kubernetes",
     "version": "0.3.0"
+  },
+  {
+    "id": "google.geminicodeassist",
+    "version": "2.55.0"
+  },
+  {
+    "id": "google.gemini-cli-vscode-ide-companion",
+    "version": "0.7.0"
   }
 ]
